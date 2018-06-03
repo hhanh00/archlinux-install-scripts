@@ -1,5 +1,7 @@
 Install scripts for Archlinux
 
+Credits to: http://shirotech.com/linux/how-to-automate-arch-linux-installation
+
 # Requirements
 
 - public key in .ssh/id_rsa.pub
